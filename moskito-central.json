@@ -1,0 +1,10 @@
+{
+    "@storages": [
+        {
+            "name": "json-file",
+            "clazz": "org.moskito.central.storage.fs.FileSystemStorage",
+            "configName": "moskito-fs-new"
+        }
+
+    ]
+}
